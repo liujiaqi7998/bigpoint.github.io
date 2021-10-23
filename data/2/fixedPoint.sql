@@ -1,0 +1,5 @@
+INSERT INTO "fixedPoint"("id", "recordFlag", "isMust", "isPassed", "latitude", "longitude", "pid", "pointName", "order") VALUES (39, #recordFlag, 0, 1, 43.931439, 126.577154, 46663, '5', 0);
+INSERT INTO "fixedPoint"("id", "recordFlag", "isMust", "isPassed", "latitude", "longitude", "pid", "pointName", "order") VALUES (40, #recordFlag, 0, 1, 43.932426, 126.576274, 46659, '1', 1);
+INSERT INTO "fixedPoint"("id", "recordFlag", "isMust", "isPassed", "latitude", "longitude", "pid", "pointName", "order") VALUES (41, #recordFlag, 0, 1, 43.93188, 126.575555, 46661, '3', 2);
+INSERT INTO "fixedPoint"("id", "recordFlag", "isMust", "isPassed", "latitude", "longitude", "pid", "pointName", "order") VALUES (42, #recordFlag, 0, 1, 43.931627, 126.576453, 46662, '4', 3);
+INSERT INTO "fixedPoint"("id", "recordFlag", "isMust", "isPassed", "latitude", "longitude", "pid", "pointName", "order") VALUES (43, #recordFlag, 0, 1, 43.932426, 126.576274, 46659, '1', 4);
